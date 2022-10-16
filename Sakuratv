@@ -6,6 +6,12 @@
 #EXTM3U
 
 
+#EXTINF:-1,JPCR 1
+http://gazytv.com:8888/movie/gonzalez23/gonzalez23/404757.mp4
+
+#EXTINF:-1,JPCR 2
+http://gazytv.com:8888/movie/gonzalez23/gonzalez23/404184.mp4
+
 #EXTINF:-1,BTS
 http://gazytv.com:8888/movie/gonzalez23/gonzalez23/619382.mkv
 
