@@ -5,295 +5,62 @@
  
 #EXTM3U
 
-#EXTINF:-1,B.T.S
-http://streamgo.vip:8008/movie/jesus02/jesus02/153338.mkv
 
-#EXTINF:-1,W RY
-http://streamgo.vip:8008/movie/jesus02/jesus02/112190.mkv
 
-#EXTINF:-1, W XTR RL
-http://streamgo.vip:8008/movie/jesus02/jesus02/162677.mp4
 
-#EXTINF:-1,W NT
-http://streamgo.vip:8008/jesus02/jesus02/150246
+#EXTINF:-1,PAT
+https://master.tucableip.com/pat/playlist.m3u8
 
+#EXTINF:-1,CN ACC
+https://v3.playerlatino.live/stream/m3u8/699
 
-#EXTINF:-1,F SD
-http://streamgo.vip:8008/jesus02/jesus02/147305
+#EXTINF:-1,CN sag
+https://v3.playerlatino.live/stream/m3u8/700
 
-#EXTINF:-1,F HD
-http://streamgo.vip:8008/jesus02/jesus02/147304
+#EXTINF:-1,CN cmd
+https://v3.playerlatino.live/stream/m3u8/695
 
-#EXTINF:-1,S SD
-http://streamgo.vip:8008/jesus02/jesus02/147293
 
-#EXTINF:-1,S HD
-http://streamgo.vip:8008/jesus02/jesus02/147292
+#EXTINF:-1,CN cmd 2
+https://v3.playerlatino.live/stream/m3u8/696
 
-#EXTINF:-1,WAR
-http://streamgo.vip:8008/jesus02/jesus02/147290
+#EXTINF:-1,CN fic
+https://v3.playerlatino.live/stream/m3u8/709
 
-#EXTINF:-1,T SER SD 
-http://streamgo.vip:8008/jesus02/jesus02/147281
+#EXTINF:-1,CN fic 2
+https://v3.playerlatino.live/stream/m3u8/710
 
+#EXTINF:-1,CN infn
+https://v3.playerlatino.live/stream/m3u8/687
 
-#EXTINF:-1,T HD
-http://streamgo.vip:8008/jesus02/jesus02/147278
+#EXTINF:-1,CN inf sg
+https://v3.playerlatino.live/stream/m3u8/694
 
-#EXTINF:-1,HB
-http://streamgo.vip:8008/jesus02/jesus02/147272
 
-#EXTINF:-1,HB FML
-http://streamgo.vip:8008/jesus02/jesus02/147269
 
-#EXTINF:-1,HB PLS
-http://streamgo.vip:8008/jesus02/jesus02/147266
+#EXTINF:-1,CN mrv
+https://v3.playerlatino.live/stream/m3u8/697
 
-#EXTINF:-1,ST CH
-http://streamgo.vip:8008/jesus02/jesus02/147257
+#EXTINF:-1,CN rom
+https://v3.playerlatino.live/stream/m3u8/689
 
+#EXTINF:-1,CN terr
+https://v3.playerlatino.live/stream/m3u8/693
 
-#EXTINF:-1,AY
-http://streamgo.vip:8008/jesus02/jesus02/147252
+#EXTINF:-1,CN zom
+https://v3.playerlatino.live/stream/m3u8/688
 
 
+#EXTINF:-1,PREDT
+http://84.16.229.242:91/Uploads/Ciencia-Ficcion/Depredador-La-Presa-2022-lat.mp4
 
 
-#EXTINF:-1,SIM24
-http://streamgo.vip:8008/jesus02/jesus02/158338
 
-#EXTINF:-1, SIM24
-http://streamgo.vip:8008/jesus02/jesus02/158382
+#EXTINF:-1,LG
+https://servidor-7.tk/Uploads/Aventura/Lego-Star-Wars-Summer-Vacation-2022-lat.mp4
 
-#EXTINF:-1,9
-http://streamgo.vip:8008/jesus02/jesus02/159059
-
-#EXTINF:-1, 2
-http://streamgo.vip:8008/jesus02/jesus02/159060
-
-#EXTINF:-1, BLVS
-http://streamgo.vip:8008/jesus02/jesus02/159061
-
-#EXTINF:-1, 7
-http://streamgo.vip:8008/jesus02/jesus02/159063
-
-
-#EXTINF:-1, 7.2
-http://streamgo.vip:8008/jesus02/jesus02/159067
-
-#EXTINF:-1, R 11
-http://streamgo.vip:8008/jesus02/jesus02/159066
-
-#EXTINF:-1, p39
-http://streamgo.vip:8008/jesus02/jesus02/159069
-
-
-#EXTINF:-1, 4
-http://streamgo.vip:8008/jesus02/jesus02/159062
-
-#EXTINF:-1, 26
-http://streamgo.vip:8008/jesus02/jesus02/159003
-
-
-#EXTINF:-1, TLF
-http://streamgo.vip:8008/jesus02/jesus02/158996
-
-
-#EXTINF:-1, NUEV
-http://streamgo.vip:8008/jesus02/jesus02/158988
-
-
-#EXTINF:-1, 13ce
-http://streamgo.vip:8008/jesus02/jesus02/158986
-
-#EXTINF:-1,FSPR
-http://streamgo.vip:8008/jesus02/jesus02/158965
-
-#EXTINF:-1,c5n
-http://streamgo.vip:8008/jesus02/jesus02/158990
-
-
-#EXTINF:-1,CS COR 1
-http://streamgo.vip:8008/series/jesus02/jesus02/146868.mp4
-
-#EXTINF:-1,CS COR 2
-http://streamgo.vip:8008/series/jesus02/jesus02/146869.mp4
-
-#EXTINF:-1,CS COR 3
-http://streamgo.vip:8008/series/jesus02/jesus02/146870.mp4
-
-#EXTINF:-1,CS COR 4
-http://streamgo.vip:8008/series/jesus02/jesus02/146871.mp4
-
-#EXTINF:-1,CS COR 5
-http://streamgo.vip:8008/series/jesus02/jesus02/146872.mp4
-
-#EXTINF:-1,CS COR 6
-http://streamgo.vip:8008/series/jesus02/jesus02/146873.mp4
-
-
-
-#EXTINF:-1,E.T.c
-http://streamgo.vip:8008/jesus02/jesus02/28237
-
-#EXTINF:-1,AM
-http://streamgo.vip:8008/jesus02/jesus02/147312
-
-#EXTINF:-1,GLD
-http://streamgo.vip:8008/jesus02/jesus02/147315
-
-#EXTINF:-1,PRM
-http://streamgo.vip:8008/jesus02/jesus02/147324
-
-#EXTINF:-1,H
-http://streamgo.vip:8008/jesus02/jesus02/147232
-
-#EXTINF:-1,TL
-http://streamgo.vip:8008/jesus02/jesus02/147243
-
-#EXTINF:-1,DST
-http://streamgo.vip:8008/jesus02/jesus02/140381
-
-#EXTINF:-1,NK
-http://streamgo.vip:8008/jesus02/jesus02/160118
-
-
-
-#EXTINF:-1,SH 1
-http://streamgo.vip:8008/series/jesus02/jesus02/149971.mp4
-
-#EXTINF:-1,SH 2
-http://streamgo.vip:8008/series/jesus02/jesus02/150531.mp4
-
-#EXTINF:-1,SH 3
-http://streamgo.vip:8008/series/jesus02/jesus02/150532.mp4
-
-#EXTINF:-1,SH 4
-http://streamgo.vip:8008/series/jesus02/jesus02/155034.mp4
-
-#EXTINF:-1,SH 5
-http://streamgo.vip:8008/series/jesus02/jesus02/155035.mp4
-
-#EXTINF:-1,SH 6
-http://streamgo.vip:8008/series/jesus02/jesus02/160095.mp4
-
-#EXTINF:-1,SH 7
-http://streamgo.vip:8008/series/jesus02/jesus02/160130.mp4
-
- 
-
-#EXTINF:-1,THR RG
-http://streamgo.vip:8008/movie/jesus02/jesus02/82978.mkv
-#EXTINF:-1,THR
-http://streamgo.vip:8008/movie/jesus02/jesus02/152566.mkv
-#EXTINF:-1,PNCH
-http://streamgo.vip:8008/movie/jesus02/jesus02/153072.mkv
-
-#EXTINF:-1,FULL M 2
-http://streamgo.vip:8008/movie/jesus02/jesus02/158688.mp4
-
-#EXTINF:-1,FULL M3
-http://streamgo.vip:8008/movie/jesus02/jesus02/156023.mp4
-
-#EXTINF:-1,TKY GOL
-http://streamgo.vip:8008/movie/jesus02/jesus02/155915.mkv
-
-#EXTINF:-1,VD NGR
-http://streamgo.vip:8008/movie/jesus02/jesus02/131508.mp4
-
-#EXTINF:-1,SPC JA
-http://streamgo.vip:8008/movie/jesus02/jesus02/131507.mp4
-
-#EXTINF:-1,JNGL
-http://streamgo.vip:8008/movie/jesus02/jesus02/131503.mp4
-
-#EXTINF:-1,INFNT
-http://streamgo.vip:8008/movie/jesus02/jesus02/131502.mp4
-
-#EXTINF:-1,ESCDN C
-http://streamgo.vip:8008/movie/jesus02/jesus02/131501.mp4
-
-#EXTINF:-1,SNCH
-http://streamgo.vip:8008/movie/jesus02/jesus02/131480.mp4
-
-#EXTINF:-1,VNM
-http://streamgo.vip:8008/movie/jesus02/jesus02/131479.mp4
-
-#EXTINF:-1,DGNB SUP
-http://streamgo.vip:8008/movie/jesus02/jesus02/150005.mp4
-
-#EXTINF:-1,DPRDDR
-http://streamgo.vip:8008/movie/jesus02/jesus02/150002.mp4
-
-#EXTINF:-1,DCTR STRNCH
-http://streamgo.vip:8008/movie/jesus02/jesus02/146702.mp4
-
-#EXTINF:-1,BZZ
-http://streamgo.vip:8008/movie/jesus02/jesus02/146133.mp4
-
-#EXTINF:-1,JRCC WR
-http://streamgo.vip:8008/movie/jesus02/jesus02/145930.mp4
-
-#EXTINF:-1,EL VLT
-http://streamgo.vip:8008/movie/jesus02/jesus02/140608.mp4
-
-#EXTINF:-1,MRBs
-http://streamgo.vip:8008/movie/jesus02/jesus02/140331.mp4
-
-#EXTINF:-1,SNC2
-http://streamgo.vip:8008/movie/jesus02/jesus02/139134.mkv
-#EXTINF:-1,VIRS 32
-http://streamgo.vip:8008/movie/jesus02/jesus02/132828.mp4
-
-#EXTINF:-1,ENL TMNT
-http://streamgo.vip:8008/movie/jesus02/jesus02/131671.mp4
-
-#EXTINF:-1,EXCT
-http://streamgo.vip:8008/movie/jesus02/jesus02/131659.mp4
-
-
-#EXTINF:-1,BTM
-http://streamgo.vip:8008/movie/jesus02/jesus02/131611.mkv
-
-#EXTINF:-1,LA CDD PRDD
-http://streamgo.vip:8008/movie/jesus02/jesus02/131217.mp4
-
-#EXTINF:-1,MONSH
-http://streamgo.vip:8008/movie/jesus02/jesus02/130320.mkv
-
-#EXTINF:-1,CST CN MG
-http://streamgo.vip:8008/movie/jesus02/jesus02/126238.mkv
-
-#EXTINF:-1,MRT NL
-http://streamgo.vip:8008/movie/jesus02/jesus02/112690.mp4
-
-
-#EXTINF:-1,MTNZ TX
-http://streamgo.vip:8008/movie/jesus02/jesus02/112223.mp4
-
-#EXTINF:-1,TNDR TIND
-http://streamgo.vip:8008/movie/jesus02/jesus02/112185.mkv
-
-#EXTINF:-1,TRTMNT NTRL
-http://streamgo.vip:8008/movie/jesus02/jesus02/112183.mkv
-
-#EXTINF:-1,TBRN
-http://streamgo.vip:8008/movie/jesus02/jesus02/112182.mkv
-
-#EXTINF:-1,LA HJ 
-http://streamgo.vip:8008/movie/jesus02/jesus02/112181.mp4
-
-#EXTINF:-1,L CSS
-http://streamgo.vip:8008/movie/jesus02/jesus02/112175.mkv
-
-
-
-#EXTINF:-1,A M ALT
-http://streamgo.vip:8008/movie/jesus02/jesus02/112160.mkv
-
-
-#EXTINF:-1,AMRR
-http://streamgo.vip:8008/movie/jesus02/jesus02/112158.mkv
+#EXTINF:-1,TLF NG
+http://84.16.229.242:91/Uploads/Suspenso/The-Black-Phone-2022-lat.mp4
 
 
 #EXTINF:-1,WOW
