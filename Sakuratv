@@ -67,6 +67,16 @@ http://tv.nstvlatino.com:8080/West57/West57/44818
 #EXTINF:-1, MRVLLL
 http://tv.nstvlatino.com:8080/West57/West57/44728
 
+#EXTINF:-1, SPDR MN
+http://tv.nstvlatino.com:8080/movie/West57/West57/1141438.mkv
+
+#EXTINF:-1, SCOT
+http://tv.nstvlatino.com:8080/movie/West57/West57/1094152.mkv
+
+#EXTINF:-1, BUZZ 
+http://tv.nstvlatino.com:8080/movie/West57/West57/1128165.mkv
+
+
 #EXTINF:-1, SPR
 http://tv.nstvlatino.com:8080/West57/West57/29406
 
