@@ -6,6 +6,35 @@
 #EXTM3U
 
 
+#EXTINF:-1,UNTL2
+http://streamgo.vip:8008/benito/benito/159060
+
+
+#EXTINF:-1,  RTP4
+http://streamgo.vip:8008/benito/benito/159062
+
+#EXTINF:-1,  BLVS
+http://streamgo.vip:8008/benito/benito/159061
+
+#EXTINF:-1, 7
+http://streamgo.vip:8008/benito/benito/159063
+
+#EXTINF:-1,  7.2
+http://streamgo.vip:8008/benito/benito/159067
+
+#EXTINF:-1,  9
+http://streamgo.vip:8008/benito/benito/159059
+
+#EXTINF:-1,  uno
+http://streamgo.vip:8008/benito/benito/159066
+
+#EXTINF:-1, TVU13
+http://streamgo.vip:8008/benito/benito/159065
+
+
+#EXTINF:-1,  PAT39
+http://streamgo.vip:8008/benito/benito/159069
+
 
 #EXTINF:-1, 13
 http://tv.nstvlatino.com:8080/West57/West57/7431
