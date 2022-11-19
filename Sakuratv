@@ -101,7 +101,29 @@ http://streamgo.vip:8008/benito/benito/159065
 http://streamgo.vip:8008/benito/benito/159069
 
 
+#EXTINF:-1,  TV PBLC HD
+http://tv.nstvlatino.com:8080/West57/West57/8183
 
+#EXTINF:-1,  TV PBLC
+http://tv.nstvlatino.com:8080/West57/West57/3417
+
+#EXTINF:-1,  ww
+http://tv.nstvlatino.com:8080/West57/West57/3426
+
+#EXTINF:-1, Blvs http://tv.nstvlatino.com:8080/West57/West57/54733
+
+
+#EXTINF:-1,  AT
+http://tv.nstvlatino.com:8080/West57/West57/54730
+
+#EXTINF:-1,  MRVS
+http://tv.nstvlatino.com:8080/movie/West57/West57/1125510.mkv
+
+#EXTINF:-1,  ANML FNTST
+http://tv.nstvlatino.com:8080/movie/West57/West57/1126865.mkv
+
+#EXTINF:-1, GNTM
+http://tv.nstvlatino.com:8080/movie/West57/West57/1121385.mkv
 
 
 #EXTINF:-1,  KNG
