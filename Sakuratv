@@ -185,6 +185,15 @@ http://tv.nstvlatino.com:8080/series/West57/West57/1125674.mkv
 #EXTINF:-1,  CM CN  PADRE  10
 http://tv.nstvlatino.com:8080/series/West57/West57/1125675.mkv
 
+#EXTINF:-1,  LTN1
+http://tv.nstvlatino.com:8080/West57/West57/1087195
+
+#EXTINF:-1,  LTN2
+http://tv.nstvlatino.com:8080/West57/West57/56273
+
+#EXTINF:-1,  LTN3
+http://tv.nstvlatino.com:8080/West57/West57/2165
+
 
 
 #EXTINF:-1, TG
