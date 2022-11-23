@@ -8,6 +8,35 @@
 #EXTINF:-1, TV UNTL 2022
 http://tv.nstvlatino.com:8080/West57/West57/52619
 
+#EXTINF:-1,TG Bol
+http://tv.nstvlatino.com:8080/West57/West57/54735
+
+
+#EXTINF:-1, TV P
+http://tv.nstvlatino.com:8080/West57/West57/3417
+
+#EXTINF:-1, TG V
+http://tv.nstvlatino.com:8080/West57/West57/54737
+
+#EXTINF:-1, TG V
+http://tv.nstvlatino.com:8080/West57/West57/51390
+
+
+
+#EXTINF:-1, TG C
+http://tv.nstvlatino.com:8080/West57/West57/54736
+
+#EXTINF:-1, TG
+http://tv.nstvlatino.com:8080/series/West57/West57/1132564.mk
+
+#EXTINF:-1, TG CR
+http://tv.nstvlatino.com:8080/West57/West57/53029
+
+#EXTINF:-1, TG CSTR
+http://tv.nstvlatino.com:8080/West57/West57/18594
+
+
+
 #EXTINF:-1, TV PBLC
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
 
