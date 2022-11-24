@@ -236,6 +236,18 @@ http://iptvglobal.site:25461/nany1/nany1/153006
 #EXTINF:-1,  BLK ADM
 http://iptvglobal.site:25461/movie/nany1/nany1/153921.mkv
 
+
+#EXTINF:-1,  SHAz
+http://iptvglobal.site:25461/movie/nany1/nany1/12046.mp4
+
+#EXTINF:-1,  XM FNX
+http://iptvglobal.site:25461/movie/nany1/nany1/12073.mp4
+
+#EXTINF:-1,  VNN
+http://iptvglobal.site:25461/movie/nany1/nany1/88731.mp4
+
+
+
 #EXTINF:-1,  PNCH
 http://iptvglobal.site:25461/movie/nany1/nany1/131878.mkv
 
@@ -269,6 +281,63 @@ http://iptvglobal.site:25461/movie/nany1/nany1/12283.mp4
 #EXTINF:-1,  DD A MI EX
 http://iptvglobal.site:25461/movie/nany1/nany1/10346.mp4
 
+#EXTINF:-1,  FLC 1
+http://iptvglobal.site:25461/series/nany1/nany1/92945.mkv
+
+
+#EXTINF:-1,  FLC  2
+http://iptvglobal.site:25461/series/nany1/nany1/92946.mkv
+
+
+#EXTINF:-1,  FLC  3
+http://iptvglobal.site:25461/series/nany1/nany1/92947.mkv
+
+#EXTINF:-1,  FLC  4
+http://iptvglobal.site:25461/series/nany1/nany1/92948.mkv
+
+#EXTINF:-1,  FLC  5
+http://iptvglobal.site:25461/series/nany1/nany1/92949.mkv
+
+#EXTINF:-1,  FLC  6
+http://iptvglobal.site:25461/series/nany1/nany1/92950.mkv
+
+
+#EXTINF:-1,  OJO ALCN  1
+http://iptvglobal.site:25461/series/nany1/nany1/93299.mp4
+
+#EXTINF:-1,  OJO ALCN  2
+http://iptvglobal.site:25461/series/nany1/nany1/93300.mp4
+
+#EXTINF:-1,  OJO ALCN  3
+http://iptvglobal.site:25461/series/nany1/nany1/93301.mp4
+
+#EXTINF:-1,  OJO ALCN  4
+http://iptvglobal.site:25461/series/nany1/nany1/93302.mp4
+
+#EXTINF:-1,  OJO ALCN  5
+http://iptvglobal.site:25461/series/nany1/nany1/93303.mp4
+
+#EXTINF:-1,  OJO ALCN  6
+http://iptvglobal.site:25461/series/nany1/nany1/93304.mp4
+
+
+#EXTINF:-1,  MKNG 1
+http://iptvglobal.site:25461/series/nany1/nany1/110795.mkv
+
+#EXTINF:-1,  MKNG  2
+http://iptvglobal.site:25461/series/nany1/nany1/110798.mkv
+
+#EXTINF:-1,  MKNG  3
+http://iptvglobal.site:25461/series/nany1/nany1/110799.mkv
+
+#EXTINF:-1,  MKNG  4
+http://iptvglobal.site:25461/series/nany1/nany1/110796.mkv
+
+#EXTINF:-1,  MKNG  5
+http://iptvglobal.site:25461/series/nany1/nany1/110797.mkv
+
+#EXTINF:-1,  MKNG  6
+http://iptvglobal.site:25461/series/nany1/nany1/112500.mkv
 
 #EXTINF:-1,  40 y 20
 http://iptvglobal.site:25461/nany1/nany1/144271
