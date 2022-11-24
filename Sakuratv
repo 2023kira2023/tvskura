@@ -5,7 +5,8 @@
  
 #EXTM3U
 
-
+#EXTINF:-1,  MDLL2022
+http://iptvglobal.site:25461/nany1/nany1/152738
 
 #EXTINF:-1,  V
 http://tv.nstvlatino.com:8080/movie/West57/West57/1098041.mkv
