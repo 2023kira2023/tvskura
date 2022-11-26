@@ -36,7 +36,11 @@ http://iptvglobal.site:25461/nany1/nany1/154318
 http://iptvglobal.site:25461/nany1/nany1/154319
 
 
+#EXTINF:-1, Blv Qtr
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, TV PBL AR
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,UNTL2
 http://streamgo.vip:8008/benito/benito/159060
 
