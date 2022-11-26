@@ -12,19 +12,28 @@ http://iptvglobal.site:25461/nany1/nany1/152738
 #EXTINF:-1,  Qt 4k
 http://iptvglobal.site:25461/nany1/nany1/152997
 
-#EXTINF:-1,  QT 2
-http://iptvglobal.site:25461/nany1/nany1/153001
 
-#EXTINF:-1,  QT 3
-http://iptvglobal.site:25461/nany1/nany1/153002
+#EXTINF:-1, QTR 1
+http://iptvglobal.site:25461/nany1/nany1/152997
 
-#EXTINF:-1, QT4
-http://iptvglobal.site:25461/nany1/nany1/153004
+#EXTINF:-1, QTR 2
+http://iptvglobal.site:25461/nany1/nany1/153008
 
-#EXTINF:-1,  QT5
-http://iptvglobal.site:25461/nany1/nany1/153966
+#EXTINF:-1, QTR 3
+http://iptvglobal.site:25461/nany1/nany1/154313
+
+#EXTINF:-1, QTR 4
+http://iptvglobal.site:25461/nany1/nany1/154315
+
+#EXTINF:-1, QTR 5
+http://iptvglobal.site:25461/nany1/nany1/154316,
 
 
+#EXTINF:-1, QTR 6
+http://iptvglobal.site:25461/nany1/nany1/154318
+
+#EXTINF:-1, QTR 7
+http://iptvglobal.site:25461/nany1/nany1/154319
 
 
 
