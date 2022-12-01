@@ -6,6 +6,18 @@
 #EXTM3U
 
 
+#EXTINF:-1, TG B
+http://iptvglobal.site:25461/nany1/nany1/152741
+
+#EXTINF:-1, TG B2
+http://iptvglobal.site:25461/nany1/nany1/152739
+
+#EXTINF:-1, TG A1
+http://iptvglobal.site:25461/nany1/nany1/152739
+
+
+
+
 #EXTINF:-1,ARG 1
 http://iptvglobal.site:25461/nany1/nany1/152740
 
@@ -82,6 +94,19 @@ http://iptvglobal.site:25461/nany1/nany1/86584
 #EXTINF:-1, AMR
 http://iptvglobal.site:25461/nany1/nany1/86484
 
+
+#EXTINF:-1, GRD GLX
+http://iptvglobal.site:25461/movie/nany1/nany1/154633.mkv
+
+#EXTINF:-1,RY MONTÑ
+http://iptvglobal.site:25461/movie/nany1/nany1/93527.mkv
+
+#EXTINF:-1,MSTR D NVDD
+http://iptvglobal.site:25461/movie/nany1/nany1/154639.mkv
+
+
+#EXTINF:-1, FULL M
+http://iptvglobal.site:25461/movie/nany1/nany1/135799.mkv
 
 
 #EXTINF:-1,ELF NVD
