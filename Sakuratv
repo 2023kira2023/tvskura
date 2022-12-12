@@ -4,6 +4,11 @@
 #EXTM:
  
 #EXTM3U
+#EXTINF:-1,QTR
+http://panel.tured.live:80/Efrain2022/Efrain2022/99767.ts
+
+#EXTINF:-1,DRC
+http://panel.tured.live:80/Efrain2022/Efrain2022/99657.ts
 
 #EXTINF:-1, TG u
 http://iptvglobal.site:25461/nany1/nany1/129911
@@ -314,6 +319,11 @@ http://speedwk.site:80/bruce123/bruce123/265685.ts
 #EXTINF:-1,  YG
 http://speedwk.site:80/bruce123/bruce123/265625.ts
 
+#EXTINF:-1,DCT
+http://panel.tured.live:80/Efrain2022/Efrain2022/265644.ts
+
+#EXTINF:-1,RED UN
+http://rosetv.live:80/Rodrigo2022/Rodrigo2022/73040.ts
 
 #EXTINF:-1,  REGAL
 http://speedwk.site:80/movie/bruce123/bruce123/160866.mkv
