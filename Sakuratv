@@ -4,6 +4,22 @@
 #EXTM:
  
 #EXTM3U
+
+
+#EXTINF:-1,T PBL
+http://panel.tured.live:80/Efrain2022/Efrain2022/99765.ts
+
+#EXTINF:-1,UNTL
+http://panel.tured.live:80/Efrain2022/Efrain2022/240236.ts
+
+#EXTINF:-1,Q CLR 1
+http://panel.tured.live:80/Efrain2022/Efrain2022/268501.ts
+
+
+#EXTINF:-1,Q CLR 2
+http://panel.tured.live:80/Efrain2022/Efrain2022/268501.ts
+
+
 #EXTINF:-1,QTR
 http://panel.tured.live:80/Efrain2022/Efrain2022/99767.ts
 
@@ -247,6 +263,13 @@ http://panel.tured.live:80/movie/Efrain2022/Efrain2022/162635.mkv
 
 #EXTINF:-1,JEEP 4
 http://panel.tured.live:80/movie/Efrain2022/Efrain2022/268516.mp4
+
+
+#EXTINF:-1,YU 2
+http://panel.tured.live:80/movie/Efrain2022/Efrain2022/156836.mkv
+
+#EXTINF:-1,TK REV
+http://panel.tured.live:80/movie/Efrain2022/Efrain2022/267937.mp4
 
 
 #EXTINF:-1,  BLCK 
