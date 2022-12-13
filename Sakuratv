@@ -6,8 +6,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,T PBL
-http://panel.tured.live:80/Efrain2022/Efrain2022/99765.ts
+
+
 
 #EXTINF:-1,UNTL
 http://panel.tured.live:80/Efrain2022/Efrain2022/240236.ts
@@ -25,6 +25,34 @@ http://panel.tured.live:80/Efrain2022/Efrain2022/99767.ts
 
 #EXTINF:-1,DRC
 http://panel.tured.live:80/Efrain2022/Efrain2022/99657.ts
+
+
+#EXTINF:-1,TV P 1
+http://tv.nstvlatino.com:8080/West57/West57/1145897
+
+#EXTINF:-1,TV P 2
+http://tv.nstvlatino.com:8080/West57/West57/8183
+
+
+#EXTINF:-1,TV P 3
+http://tv.nstvlatino.com:8080/West57/West57/3417
+
+
+#EXTINF:-1,TG
+http://tv.nstvlatino.com:8080/West57/West57/54737
+
+#EXTINF:-1,TG
+http://tv.nstvlatino.com:8080/West57/West57/54735
+
+#EXTINF:-1,TlM 
+http://tv.nstvlatino.com:8080/West57/West57/8209
+
+#EXTINF:-1,TYC1
+http://tv.nstvlatino.com:8080/West57/West57/1145900
+
+
+#EXTINF:-1,TYC2
+http://tv.nstvlatino.com:8080/West57/West57/2961
 
 #EXTINF:-1, TG u
 http://iptvglobal.site:25461/nany1/nany1/129911
