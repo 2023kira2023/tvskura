@@ -6,6 +6,8 @@
 #EXTM3U
 
 
+#EXTINF:-1,AVT 2
+https://archive.org/download/snapfred-movie-4v-4t-4r-2-elc-4min-0d-3l-4gu-4/Snapfred_movie%2B4v4%2Bt4r%2B2%2BEl%2Bc4%2Bmin0%2Bd3l%2B4gu4.mp4
 
 #EXTINF:-1, TvP
 http://panel.tured.live:80/Efrain2022/Efrain2022/99765.ts
