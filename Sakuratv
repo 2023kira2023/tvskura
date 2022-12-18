@@ -6,11 +6,15 @@
 #EXTM3U
 
 
+#EXTINF:-1, TRL22
+http://tv.streamid.tv:8080/movie/nicolaspastrian628265/c7TnfsYQQU/129553.mkv
+
+#EXTINF:-1, AVT SN P
+http://tv.streamid.tv:8080/movie/nicolaspastrian628265/c7TnfsYQQU/130275.mp4
+
 #EXTINF:-1,AVT 2
 https://archive.org/download/snapfred-movie-4v-4t-4r-2-elc-4min-0d-3l-4gu-4/Snapfred_movie%2B4v4%2Bt4r%2B2%2BEl%2Bc4%2Bmin0%2Bd3l%2B4gu4.mp4
 
-#EXTINF:-1,TRL 22
-http://megatitan.net:8080/movie/jasmin1234/s5zhdhu94w/458001.mkv
 
 #EXTINF:-1,  AV 2
 http://odenfull.co:2086/movie/MPilarcr/nZ5rJbaKqXT6/236901.mp4
