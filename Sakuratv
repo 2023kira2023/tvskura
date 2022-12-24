@@ -6,6 +6,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1, TRL22
 http://tv.streamid.tv:8080/movie/nicolaspastrian628265/c7TnfsYQQU/129553.mkv
 
@@ -39,13 +41,13 @@ http://tv.streamid.tv:8080/movie/nicolaspastrian628265/c7TnfsYQQU/117305.mkv
 
 
 
-#EXTINF:-1,  SM 1/34
+#EXTINF:-1,  SM 1/24
 http://tv.streamid.tv:8080/series/nicolaspastrian628265/c7TnfsYQQU/130107.mkv
 
-#EXTINF:-1,  SM 2/34
+#EXTINF:-1,  SM 2/24
 http://tv.streamid.tv:8080/series/nicolaspastrian628265/c7TnfsYQQU/130108.mkv
 
-#EXTINF:-1,  SM 3/34
+#EXTINF:-1,  SM 2/24
 http://tv.streamid.tv:8080/series/nicolaspastrian628265/c7TnfsYQQU/130109.mkv
 
 #EXTINF:-1,  SM 
@@ -187,6 +189,38 @@ http://streamgo.vip:8008/movie/7777/7777/170814.mp4
 http://streamgo.vip:8008/movie/7777/7777/170817.mp4
 
 
+#EXTINF:-1,  Bb spj
+http://streamgo.vip:8008/7777/7777/172522
+
+#EXTINF:-1,  FTRM
+http://streamgo.vip:8008/7777/7777/172536
+
+#EXTINF:-1,  SM
+http://streamgo.vip:8008/7777/7777/172541
+
+#EXTINF:-1,  DRK Y JSD
+http://streamgo.vip:8008/7777/7777/172576
+
+#EXTINF:-1,  CHSPRT
+http://streamgo.vip:8008/7777/7777/172601
+
+#EXTINF:-1,  Fm p
+http://streamgo.vip:8008/7777/7777/172604
+
+#EXTINF:-1,  SM T1
+http://streamgo.vip:8008/7777/7777/172732
+
+#EXTINF:-1,  SM T2
+http://streamgo.vip:8008/7777/7777/172734
+
+#EXTINF:-1,  SM T3
+http://streamgo.vip:8008/7777/7777/172735
+
+#EXTINF:-1,  SM T4
+http://streamgo.vip:8008/7777/7777/172736
+
+#EXTINF:-1,  SM T5
+http://streamgo.vip:8008/7777/7777/172737
 
 
 #EXTINF:-1,  Nvdd
