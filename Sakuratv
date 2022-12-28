@@ -6,6 +6,15 @@
 #EXTM3U
 
 
+#EXTINF:-1,AVTR 2
+http://tv.streamid.tv:8080/movie/nicolaspastrian628265/c7TnfsYQQU/130275.mp4
+
+#EXTINF:-1,AVTR 1
+http://tv.streamid.tv:8080/movie/nicolaspastrian628265/c7TnfsYQQU/67051.mkv
+
+#EXTINF:-1,DSTR
+http://hostengine.live:25461/tarshaphil/z3v7HferfGH3/147614
+
 
 
 #EXTINF:-1, TRL22
