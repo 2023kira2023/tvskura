@@ -55,35 +55,26 @@ http://l3d.us:25461/UzielLCH/123456789/2091016
 http://l3d.us:25461/UzielLCH/123456789/2091018
 
 #EXTINF:-1,  WRN 1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/16
+http:#EXTINF:-1, DSTC
+http://latinchannel.tv:8080/Joselgimenez/885432/38
 
-#EXTINF:-1,  DSTR 1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/38
+#EXTINF:-1, WNNR
+http://latinchannel.tv:8080/Joselgimenez/885432/130
 
-#EXTINF:-1,  CM CNTR 1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/3538
+#EXTINF:-1, SN
+http://latinchannel.tv:8080/Joselgimenez/885432/18857
 
-#EXTINF:-1,  CMD CNT 1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/22
+#EXTINF:-1, CMD
+http://latinchannel.tv:8080/Joselgimenez/885432/22
 
-#EXTINF:-1,  F1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/18
+#EXTINF:-1, STR
+http://latinchannel.tv:8080/Joselgimenez/885432/123
 
-#EXTINF:-1,  STR1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/14
+#EXTINF:-1, T7T 1
+http://latinchannel.tv:8080/Joselgimenez/885432/33
 
-#EXTINF:-1,  SY1
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/15
-
-
-#EXTINF:-1,  HB2
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/378
-
-#EXTINF:-1,  SPC
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/86
-
-#EXTINF:-1,  TT
-http://latinchannel.tv:8080/977Todolin/RLmPoGO0w5/33
+#EXTINF:-1, T7T 2
+http://latinchannel.tv:8080/Joselgimenez/885432/76
 
 #EXTINF:-1, DS T CM 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2056.ts
