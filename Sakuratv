@@ -5,6 +5,47 @@
  
 #EXTM3U
 
+
+#EXTINF:-1,  AVTR 2a
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160759.mp4
+
+#EXTINF:-1,  AVTR 2/b
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160758.mp4
+
+#EXTINF:-1,  AVTR 2/c
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160757.mp4
+
+
+#EXTINF:-1, 
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/145670.mkv
+
+#EXTINF:-1, THRRR
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/148355.mkv
+
+#EXTINF:-1, TRL
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160254.mp4
+
+#EXTINF:-1, NVDD G
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160718.mp4
+
+#EXTINF:-1, SPDRM
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/115660.mkv
+
+#EXTINF:-1, Vnnn
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/87532.mkv
+
+
+#EXTINF:-1, DCT STRNN
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/139394.mp4
+
+#EXTINF:-1, UNCH
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/128515.mp4
+
+
+#EXTINF:-1, BTM
+http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/126988.mp4
+
+
 #EXTINF:-1,  SM 1/24
 http://tv.streamid.tv:8080/series/nicolaspastrian628265/c7TnfsYQQU/130107.mkv
 
