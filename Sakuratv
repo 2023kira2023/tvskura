@@ -5,6 +5,11 @@
  
 #EXTM3U
 
+
+#EXTINF:-1,  BINGGG
+http://l3d.us:25461/UzielLCH/123456789/2091018
+
+
 #EXTINF:-1,  M3G CM H
 http://iptvglobal.site:25461/movie/Jonathan2023/Jonathan2023/162323.mp4
 
@@ -485,8 +490,6 @@ http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/87721
 
 
 
-#EXTINF:-1,  BINGGG
-http://l3d.us:25461/UzielLCH/123456789/2091018
 
 
 #EXTINF:-1,  2HMBS 
@@ -2508,24 +2511,6 @@ http://iptvglobal.site:25461/series/nany1/nany1/92949.mkv
 #EXTINF:-1,  FLC  6
 http://iptvglobal.site:25461/series/nany1/nany1/92950.mkv
 
-
-#EXTINF:-1,  OJO ALCN  1
-http://iptvglobal.site:25461/series/nany1/nany1/93299.mp4
-
-#EXTINF:-1,  OJO ALCN  2
-http://iptvglobal.site:25461/series/nany1/nany1/93300.mp4
-
-#EXTINF:-1,  OJO ALCN  3
-http://iptvglobal.site:25461/series/nany1/nany1/93301.mp4
-
-#EXTINF:-1,  OJO ALCN  4
-http://iptvglobal.site:25461/series/nany1/nany1/93302.mp4
-
-#EXTINF:-1,  OJO ALCN  5
-http://iptvglobal.site:25461/series/nany1/nany1/93303.mp4
-
-#EXTINF:-1,  OJO ALCN  6
-http://iptvglobal.site:25461/series/nany1/nany1/93304.mp4
 
 
 #EXTINF:-1,  MKNG 1
