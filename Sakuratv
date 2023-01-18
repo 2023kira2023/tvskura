@@ -203,7 +203,7 @@ http://streamingtv.vip:8080/series/ManuelRenteriaPB22/Manuel10012022/160217.mp4
 http://streamingtv.vip:8080/series/ManuelRenteriaPB22/Manuel10012022/160218.mp4
 
 
-NF:-1, DSTC
+#EXTINF:-1,   DSTC
 http://latinchannel.tv:8080/Joselgimenez/885432/38
 
 #EXTINF:-1, WNNR
