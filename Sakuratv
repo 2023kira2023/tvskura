@@ -5,46 +5,91 @@
  
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1, BBg
+http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/139922
+
+#EXTINF:-1, So p
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1, FC
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+
+
+#EXTINF:-1, So k
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1, Tp
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,F24
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+
+#EXTINF:-1, ANmZNtv
+http://azxtv.com/hls/stream.m3u8
+
+
+#EXTINF:-1, Tvpp
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1, 9b
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1, 7b
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+
+#EXTINF:-1, 7b2
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+
+#EXTINF:-1, 7b3
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1, 5b
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1, 36b
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+
+#EXTINF:-1,5b2
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+
+#EXTINF:-1, 26A
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, 39b
+https://master.tucableip.com/pat/playlist.m3u8
+
+
+#EXTINF:-1,4b
+http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
+
+
+
+#EXTINF:-1, Tv
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, last
 http://teamnextlevel.xyz:25461/series/Cortez/Cortez/248642.mkv
 
-#EXTINF:-1,  BINGGG
-http://l3d.us:25461/UzielLCH/123456789/2091018
 
 
-
-
-#EXTINF:-1, MGN PL
-http://streamingtv.vip:8080/movie/ManuelRenteriaPB22/Manuel10012022/161205.mp4
-
-#EXTINF:-1, last 1EP
-http://stalkertvlatinopanel.com:8080/series/wilson12345/wilson12345/144231.mkv
-
-
-#EXTINF:-1, last 2EP
-http://stalkertvlatinopanel.com:8080/series/wilson12345/wilson12345/144920.mkv
-
-
-#EXTINF:-1, last 3EP
-http://stalkertvlatinopanel.com:8080/series/wilson12345/wilson12345/145405.mkv
-
-
-#EXTINF:-1, ATMN
-http://stalkertvlatinopanel.com:8080/movie/wilson12345/wilson12345/81027.mkv
-
-
-#EXTINF:-1, LBOS
-http://stalkertvlatinopanel.com:8080/movie/wilson12345/wilson12345/145116.mkv
-
-
-
-#EXTINF:-1, NN MLS
-http://stalkertvlatinopanel.com:8080/movie/wilson12345/wilson12345/145040.mkv
-
-
-
-#EXTINF:-1, JNGLE
-http://stalkertvlatinopanel.com:8080/movie/wilson12345/wilson12345/144837.mkv
 
 
 
@@ -53,33 +98,6 @@ http://iptvglobal.site:25461/nany1/nany1/144362
 
 #EXTINF:-1,PRST
 http://iptvglobal.site:25461/movie/nany1/nany1/14353.mp4
-#EXTINF:-1,  M3G CM H
-http://iptvglobal.site:25461/movie/Jonathan2023/Jonathan2023/162323.mp4
-
-
-
-#EXTINF:-1,  M3G CM CN
-http://iptvglobal.site:25461/movie/Jonathan2023/Jonathan2023/162764.mp4
-
-#EXTINF:-1,  AVTR 2a
-http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160759.mp4
-
-#EXTINF:-1,  AVTR 2/b
-http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160758.mp4
-
-#EXTINF:-1,  AVTR 2/c
-http://streamingtv.vip:8080/movie/fabrizioobregon/promotvbox1405/160757.mp4
-
-#EXTINF:-1,  BLCK ADM
-http://iptvglobal.site:25461/movie/Jonathan2023/Jonathan2023/152291.mkv
-
-
-#EXTINF:-1,  PNCH
-http://iptvglobal.site:25461/movie/Jonathan2023/Jonathan2023/131878.mkv
-
-
-#EXTINF:-1,  GT SMRRY
-http://l3d.us:25461/UzielLCH/123456789/2090891
 
 #EXTINF:-1,  DSTRCM
 http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/63195
