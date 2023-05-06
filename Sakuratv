@@ -25,6 +25,117 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w399682521.m3u8
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 
 
+
+
+#EXTINF:-1,Loc
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+#EXTINF:-1,Loc+
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+#EXTINF:-1,Bb
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
+
+#EXTINF:-1,wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
+
+#EXTINF:-1,At8
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w399682521.m3u8
+
+#EXTINF:-1,Dct strch
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
+
+
+
+
+#EXTINF:-1,Mxm tv
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+
+
+#EXTINF:-1,Plnt  kd
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
+
+#EXTINF:-1,Vintachhh
+https://acl-server.linky.com.co/hls/vintage2023.m3u8
+
+#EXTINF:-1,Loc
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1,Anim
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1,clsc tv
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+
+#EXTINF:-1,Dreko
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+
+#EXTINF:-1,Mgc 
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1,Mgc 2
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+
+#EXTINF:-1,TTrs inftl
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+
+#EXTINF:-1,Ltn
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+
+#EXTINF:-1,Anm
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+
+#EXTINF:-1, tv dibjs
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Ndi
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+
+
+#EXTINF:-1,Nkk
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+
+
+#EXTINF:-1,kd
+https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+
+
+#EXTINF:-1, matrm CN hjd
+https://i.mjh.nz/PlutoTV/60f58d45696a530007088486-alt.m3u8
+
+
+
+#EXTINF:-1,Radio anm
+https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
+
+#EXTINF:-1,Radio anm
+http://cast.animenexusla.com:8000/animenexus
+
+#EXTINF:-1,Radio msc
+https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
+
+#EXTINF:-1,Anm radio
+https://audio.misproductions.com/japan48kaacp
+
+#EXTINF:-1,Anm radio nw
+https://radioanime.radioca.st/stream
+
+
+#EXTINF:-1,akira radio
+http://node-26.zeno.fm:80/0t952vqukfeuv
+
 #EXTINF:-1, So p
 https://live.seo.tv.bo/live/4SEO.m3u8
 
