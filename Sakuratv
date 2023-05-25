@@ -27,16 +27,25 @@ http://streamgo.vip:8008/movie/DigitalService191/16340472/310263.mp4
 #EXTINF:-1,Cab lls
 http://streamgo.vip:8008/movie/DigitalService191/16340472/306351.mp4
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-#EXTINF:-1,
 
 
-#EXTINF:-1
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,Dstr
+http://streamgo.vip:8008/DigitalService191/16340472/295152
 
+#EXTINF:-1,Dstr2
+http://streamgo.vip:8008/DigitalService191/16340472/295151
+
+#EXTINF:-1,Wrnr1
+http://streamgo.vip:8008/DigitalService191/16340472/274104
+
+#EXTINF:-1,Wrnr2
+http://streamgo.vip:8008/DigitalService191/16340472/305026
+
+#EXTINF:-1,str ch
+http://streamgo.vip:8008/DigitalService191/16340472/304997
+
+#EXTINF:-1, si te ch2
+http://streamgo.vip:8008/DigitalService191/16340472/304998
 
 #EXTINF:-1,DsNy24
 http://streamgo.vip:8008/DigitalService191/16340472/305086
