@@ -11,300 +11,61 @@
 #EXTINF:-1, BBg
 http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/139922
 
+#EXTINF:-1,Cmdy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
 
+#EXTINF:-1,Ros
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1,M@rio
-http://streamgo.vip:8008/movie/DigitalService191/16340472/295889.mkv
+#EXTINF:-1,Crtnnt
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1,Tl novelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1,Rpdsx
-http://streamgo.vip:8008/movie/DigitalService191/16340472/309091.mp4
+#EXTINF:-1,Jajajs
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-#EXTINF:-1,Grd glx
-http://streamgo.vip:8008/movie/DigitalService191/16340472/310263.mp4
 
-#EXTINF:-1,Cab lls
-http://streamgo.vip:8008/movie/DigitalService191/16340472/306351.mp4
+#EXTINF:-1,Lat
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
+#EXTINF:-1Cm cntr
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
 
+#EXTINF:-1,jn
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
 
-#EXTINF:-1,Dstr
-http://streamgo.vip:8008/DigitalService191/16340472/295152
+#EXTINF:-1,latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1,Dstr2
-http://streamgo.vip:8008/DigitalService191/16340472/295151
+#EXTINF:-1,7 bolivistv
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1,Wrnr1
-http://streamgo.vip:8008/DigitalService191/16340472/274104
+#EXTINF:-1,Rtp
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
-#EXTINF:-1,Wrnr2
-http://streamgo.vip:8008/DigitalService191/16340472/305026
+#EXTINF:-1,AtB
+http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1,str ch
-http://streamgo.vip:8008/DigitalService191/16340472/304997
 
-#EXTINF:-1, si te ch2
-http://streamgo.vip:8008/DigitalService191/16340472/304998
+#EXTINF:-1,Anim
+https://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1,DsNy24
-http://streamgo.vip:8008/DigitalService191/16340472/305086
+#EXTINF:-1,Anim super c
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
+#EXTINF:-1k pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1,Ntfx24
-http://streamgo.vip:8008/DigitalService191/16340472/305099
 
+#EXTINF:-1,Anim
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1,Sm24
-http://streamgo.vip:8008/DigitalService191/16340472/305098
 
 
-#EXTINF:-1,Ftrm24
-http://streamgo.vip:8008/DigitalService191/16340472/305120
 
-
-
-
-#EXTINF:-1,Rbld
-http://streamgo.vip:8008/DigitalService191/16340472/305103
-
-
-
-#EXTINF:-1,povo yo
-http://streamgo.vip:8008/DigitalService191/16340472/305197
-
-#EXTINF:-1,Ryn infntl25
-http://streamgo.vip:8008/DigitalService191/16340472/305135
-
-#EXTINF:-1,plin25
-http://streamgo.vip:8008/DigitalService191/16340472/305137
-
-
-#EXTINF:-1,pl infntls24
-http://streamgo.vip:8008/DigitalService191/16340472/305146
-
-#EXTINF:-1,Fml plch24
-http://streamgo.vip:8008/DigitalService191/16340472/305154
-
-#EXTINF:-1,ply pl
-http://streamgo.vip:8008/DigitalService191/16340472/305157
-
-#EXTINF:-1,Bob s24
-http://streamgo.vip:8008/DigitalService191/16340472/305165
-
-#EXTINF:-1,sim1 24
-http://streamgo.vip:8008/DigitalService191/16340472/305185
-
-
-#EXTINF:-1,sim2 24
-http://streamgo.vip:8008/DigitalService191/16340472/305186
-
-#EXTINF:-1,sim3 24
-http://streamgo.vip:8008/DigitalService191/16340472/305187
-
-
-
-#EXTINF:-1,sim4 24
-http://streamgo.vip:8008/DigitalService191/16340472/305189
-
-
-
-
-#EXTINF:-1,jrsc pr
-http://streamgo.vip:8008/DigitalService191/16340472/308920
-
-
-#EXTINF:-1,Rpds 1_5-24
-http://streamgo.vip:8008/DigitalService191/16340472/306411
-
-#EXTINF:-1,Rpds 6_9-24
-http://streamgo.vip:8008/DigitalService191/16340472/306527
-
-#EXTINF:-1,Trr24
-http://streamgo.vip:8008/DigitalService191/16340472/306264
-
-#EXTINF:-1,dragg pl24
-http://streamgo.vip:8008/DigitalService191/16340472/305937
-
-#EXTINF:-1,infntl pls24
-http://streamgo.vip:8008/DigitalService191/16340472/305779
-
-
-#EXTINF:-1,Hrr p 1_4-24
-http://streamgo.vip:8008/DigitalService191/16340472/308077
-
-
-#EXTINF:-1,Hrr p 5_9-24
-http://streamgo.vip:8008/DigitalService191/16340472/308120
-
-#EXTINF:-1,prtas24
-http://streamgo.vip:8008/DigitalService191/16340472/305762
-
-
-
-
-
-#EXTINF:-1,Unte
-http://streamgo.vip:8008/DigitalService191/16340472/159060
-
-#EXTINF:-1,warnn
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143162
-
-#EXTINF:-1Amrc
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143187
-
-#EXTINF:-1,Hb2
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143099
-
-
-
-#EXTINF:-1,Hbpluss
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143100
-
-#EXTINF:-1,Hb@
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143098
-
-
-#EXTINF:-1,Golddd
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143095
-
-#EXTINF:-1, Gg l
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143093
-
-
-#EXTINF:-1,F
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143088
-
-#EXTINF:-1,DsNy ch
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143062
-
-#EXTINF:-1,+,chk
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143109
-
-#EXTINF:-1,MTv
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143113
-
-#EXTINF:-1,para mo
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143128
-
-#EXTINF:-1,SN
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143129
-
-
-#EXTINF:-1,Spc
-http://ultrontv.xyz:80/Jodyquantum123/Jodyquantum78/143130
-
-
-
-#EXTINF:-1,Peluch
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130573
-
-
-#EXTINF:-1,Cine
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114302
-
-
-#EXTINF:-1,Dream wr
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87709
-
-
-#EXTINF:-1,Disny
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114271
-
-
-#EXTINF:-1, Pixsr
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87708
-
-
-
-#EXTINF:-1,Avngr
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87700
-
-
-#EXTINF:-1,Chvo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87719
-
-
-#EXTINF:-1,Scrt movi
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87738
-
-
-
-
-#EXTINF:-1,C horror
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114273
-
-
-#EXTINF:-1,navidd
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114274
-
-
-#EXTINF:-1,sction
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114282
-
-
-
-#EXTINF:-1,Anillo
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114286
-
-
-
-#EXTINF:-1,Cado srrd
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/210489
-
-
-
-#EXTINF:-1,Bob1
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130576
-
-
-#EXTINF:-1,Bob2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130575
-
-
-#EXTINF:-1,Bob3
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/130636
-
-
-#EXTINF:-1,Romntic
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114278
-
-
-#EXTINF:-1,Lego
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/114275
-
-
-
-#EXTINF:-1,Dstr
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86976
-
-#EXTINF:-1,Dstr2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/88218
-
-
-#EXTINF:-1,war
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87014
-
-#EXTINF:-1,War2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86870
-
-#EXTINF:-1,Cmd cnt 1
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87071
-
-#EXTINF:-1,Cmd cnt2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/88208
-
-#EXTINF:-1,SN
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87005
-
-#EXTINF:-1,SN2
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87614
-
-#EXTINF:-1, Str ch1
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86982
-
-#EXTINF:-1,F
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/87565
 
 #EXTINF:-1,Betssscbl
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
