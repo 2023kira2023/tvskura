@@ -13,39 +13,136 @@ http://streamingtv.vip:8080/ManuelRenteriaPB22/Manuel10012022/139922
 
 
 
-#EXTINF:-1,doctor streach
-http://209.126.106.30:8081/ppv_movies/video.php?cmd=18048&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,Batm
-http://209.126.106.30:8081/ppv_movies/video.php?cmd=17864&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-
-
-#EXTINF:-1,Spiderman
-http://209.126.106.30:8081/ppv_movies/video.php?cmd=17174&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,mujer mrbll
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=14194&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,Thor
-http://209.126.105.238:20103/ppv_movies/video.php?cmd=18449&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,300
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=9990&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,oso t
-http://158.69.116.209:20102/vod/liveusa.php?cmd=43325ab2df3a11e8acb3a4bf0114f6f2&token=2df2e865f5e44a3ba9d60386a15ba405&f=.m3u8
-
-#EXTINF:-1,Gran gts
-http://158.69.116.209:20102/vod/liveusa.php?cmd=43323982df3a11e8acb3a4bf0114f6f2&token=2df2e865f5e44a3ba9d60386a15ba405&f=.m3u8
-
-#EXTINF:-1,Guarda 2
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=10898&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
 
 
 #EXTINF:-1,peli
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=18094&token=@ . Full los&font=1
+
+
+#EXTINF:-1,Soniv
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17985&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+
+
+#EXTINF:-1, unchsrter
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17902&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,Transfor extin
+http://158.69.116.209:20102/vod/liveusa.php?cmd=4331515edf3a11e8acb3a4bf0114f6f2&token=2df2e865f5e44a3ba9d60386a15ba405&f=.m3u8
+
+
+#EXTINF:-1, pasajero 666
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17653&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1,llamas de vengsnza
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=18044&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1,hija del rey
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17451&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1, vacaciones 
+http://209.126.119.14
+#EXTINF:-1,peli
 http://209.126.106.30:8081/ppv_movies/video.php?cmd=17652&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
 
+
+
+
+#EXTINF:-1,peli
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=18094&token=@ . Full los&font=1
+
+
+#EXTINF:-1,Soniv
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17985&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+
+
+#EXTINF:-1, unchsrter
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17902&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,Transfor ex . Full los&font=1
+
+
+#EXTINF:-1,Soniv
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17985&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+
+
+#EXTINF:-1, unchsrter
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17902&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,Transfor extin
+http://158.69.116.209:20102/vod/liveusa.php?cmd=4331515edf3a11e8acb3a4bf0114f6f2&token=2df2e865f5e44a3ba9d60386a15ba405&f=.m3u8
+
+
+#EXTINF:-1, pasajero 666
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17653&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1,llamas de vengsnza
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=18044&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1,hija del rey
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17451&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1, vacaciones 
+http://209.126.119.14
+#EXTINF:-1,peli
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17652&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+
+
+#EXTINF:-1,peli
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=18094&token=@ . Full los&font=1
+
+
+#EXTINF:-1,Soniv
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17985&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+
+
+#EXTINF:-1, unchsrter
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17902&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,Transfor extin
+http://158.69.116.209:20102/vod/liveusa.php?cmd=4331515edf3a11e8acb3a4bf0114f6f2&token=2df2e865f5e44a3ba9d60386a15ba405&f=.m3u8
+
+tin
+http://158.69.116.209:20102/vod/liveusa.php?cmd=4331515edf3a11e8acb3a4bf0114f6f2&token=2df2e865f5e44a3ba9d60386a15ba405&f=.m3u8
+
+
+#EXTINF:-1, pasajero 666
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17653&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1,llamas de vengsnza
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=18044&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1,hija del rey
+http://209.126.106.30:8081/ppv_movies/video.php?cmd=17451&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+#EXTINF:-1, vacaciones 
+http://209.126.119.148:20103/ppv_movies/video.php?cmd=12921&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,hotel t 3
+http://209.126.119.1488:20103/ppv_movies/video.php?cmd=12921&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,hotel t 3
+http://209.126.119.148s 
+http://209.126.119.148:20103/ppv_movies/video.php?cmd=12921&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
+
+
+#EXTINF:-1,hotel t 3
+http://209.126.119.148
 
 
 
@@ -87,51 +184,8 @@ http://209.126.119.148:20103/ppv_movies/video.php?cmd=9127&token=2df2e865f5e44a3
 http://158.69.116.209:20102/live/cefe0def27604e6aa163c752930a20b9/36a74db1d3a74cf9bc0bd26ee7b43858/4.m3u8
 
 
-#EXTINF:-1,Actn
-http://158.69.116.209:20102/live/3a22e58683e84a1aa743689cd30dd600/d45b2d61995c41adb038438b4b66d60a/3.m3u8
-
-
-#EXTINF:-1,Hboplss
-http://158.69.116.209:20102/live/b55fe1f710d04c7c92f697769d0b1013/44e43926795d4ba0b33e1af717526b57/10.m3u8
-
-
-#EXTINF:-1,Str
-http://158.69.116.209:20102/live/a1d36a0de8ec415cb90d3a0eb259653e/3438a751c4024bae9a410fb3f95a6584/39.m3u8
-
-
-
-#EXTINF:-1,str act
-http://158.69.116.209:20102/live/47fcaedcf2e1495fac4db4d85a9441e6/ef226105b18341e0a8036d34ced59c42/30.m3u8
-
-
-
-#EXTINF:-1,13fnts
 http://209.126.119.148:20103/ppv_movies/video.php?cmd=13931&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
  
-
-#EXTINF:-1,Amo
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=9143&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-
-#EXTINF:-1,Avs pres
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=4830&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,Ćpt amr
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=10902&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-
-#EXTINF:-1,Ch mls
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=13186&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,Dmb
-http://209.126.124.36:20103/ppv_movies/video.php?cmd=1668&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-
-#EXTINF:-1,Bnjmn bot
-http://209.126.119.148:20103/ppv_movies/video.php?cmd=14015&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
-
-#EXTINF:-1,Escuadro
-http://209.126.106.30:8081/ppv_movies/video.php?cmd=16230&token=2df2e865f5e44a3ba9d60386a15ba405&font=1
 
 
 #EXTINF:-1,Cmdy
