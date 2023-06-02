@@ -1244,6 +1244,153 @@ http://premiumultra.xyz:8080/Fernado/Maya/40882
 
 
 
+#EXTINF:-1,Loc
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+#EXTINF:-1,Loc+
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+#EXTINF:-1,Bb
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
+
+#EXTINF:-1,wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
+
+#EXTINF:-1,At8
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w399682521.m3u8
+
+#EXTINF:-1,Dct strch
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
+
+
+
+
+#EXTINF:-1,Mxm tv
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+
+
+#EXTINF:-1,Plnt  kd
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
+
+#EXTINF:-1,Vintachhh
+https://acl-server.linky.com.co/hls/vintage2023.m3u8
+
+#EXTINF:-1,Loc
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1,Anim
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1,clsc tv
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+
+#EXTINF:-1,Dreko
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+
+#EXTINF:-1,Mgc 
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1,Mgc 2
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+
+#EXTINF:-1,TTrs inftl
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+
+#EXTINF:-1,Ltn
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+
+#EXTINF:-1,Anm
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+
+#EXTINF:-1, tv dibjs
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Ndi
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/playlist.m3u8
+
+
+#EXTINF:-1,Nkk
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+
+
+#EXTINF:-1,kd
+https://i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8
+
+
+#EXTINF:-1, matrm CN hjd
+https://i.mjh.nz/PlutoTV/60f58d45696a530007088486-alt.m3u8
+
+
+
+#EXTINF:-1,Radio anm
+https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
+
+#EXTINF:-1,Radio anm
+http://cast.animenexusla.com:8000/animenexus
+
+#EXTINF:-1,Radio msc
+https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
+
+#EXTINF:-1,Anm radio
+https://audio.misproductions.com/japan48kaacp
+
+#EXTINF:-1,Anm radio nw
+https://radioanime.radioca.st/stream
+
+
+#EXTINF:-1,akira radio
+http://node-26.zeno.fm:80/0t952vqukfeuv
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,INZ leven
+https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
+
+#EXTINF:-1, Nart
+https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+
+
+
+
+
+#EXTINF:-1,  F 2
+https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--02-LaSerieHaAterrizado.mp4
+
+
+
+#EXTINF:-1,Rky mrt
+https://ia802805.us.archive.org/1/items/rymt02xe01/RyM_T01xE02.mp4
+
+#EXTINF:-1,Ftrm
+https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--03-YoCompaeroDePiso.mp4
+
+#EXTINF:-1, F 3
+https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--03-YoCompaeroDePiso.mp4
+
+
+#EXTINF:-1,F 1
+https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.mp4
+
+
+
 #EXTINF:-1 group-title="PELICULA, Cuando nos Conocimos 
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS", Deadpool 
