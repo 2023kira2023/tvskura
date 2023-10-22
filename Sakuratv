@@ -9,6 +9,982 @@
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  ETC TV [HD]" tvg-logo="https://static.epg.best/cl/ETCTV.cl.png" group-title="││TV││ CHILE",││CHL││  ETC TV [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/232
+#EXTINF:-1 tvg-id="" tvg-name="││CHL│N│ REC TV [HD]" tvg-logo="https://static.epg.best/cl/RecTV.cl.png" group-title="││TV││ CHILE",││CHL│N│ REC TV [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/234
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ MEGA [HD]" tvg-logo="https://static.epg.best/cl/Mega.cl.png" group-title="││TV││ CHILE",││CHL││ MEGA [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/235
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  LA RED [HD] " tvg-logo="https://static.epg.best/cl/LaRed.cl.png" group-title="││TV││ CHILE",││CHL││  LA RED [HD] 
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/236
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  TELETRAK  [HD]" tvg-logo="https://static.epg.best/cl/Teletrak.cl.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││  TELETRAK  [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/237
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ TVN [HD]" tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="││TV││ CHILE",││CHL││ TVN [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/238
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TELEFE HQ" tvg-logo="https://static.epg.best/ar/Telefe.ar.png" group-title="││TV││ARGENTINA ",││ARG││  TELEFE HQ
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/264
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ ARGENTINA EL TRECE [HQ]" tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="││TV││ARGENTINA ",││ARG││ ARGENTINA EL TRECE [HQ]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/265
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 2 HQ" tvg-logo="https://static.americadigital.com.ar/americatv/images/america-tv-junio.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 2 HQ
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/266
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/267
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TV PUBLICA [HQ]" tvg-logo="https://static.epg.best/ar/TVPublica.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TV PUBLICA [HQ]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/268
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  EL NUEVE HD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="││TV││ARGENTINA ",││ARG││  EL NUEVE HD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/269#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 1
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/320
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 2
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/321
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 3
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/322
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 4
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/323
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 5
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/324
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 6
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/325
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV HARRY POTTER" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV HARRY POTTER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/326
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 8" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 8
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/327
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV MARVEL STUDIO HD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/328
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 10" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 10
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/329
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | A&E (N)" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | A&E (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/332
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | AMC (N)" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | AMC (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/333
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ AXN (N)" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ AXN (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/334
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | CINECANAL (N)" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | CINECANAL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/335
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CINEMAX FHD (N)" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="││TV││ PREMIUM FHD",CINE  CINEMAX FHD (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/336
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | FX (n)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="││TV││ PREMIUM FHD",CINE FULL HD | FX (n)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/337
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | STAR CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/338
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL PREMIER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/339
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL CINEMA (N)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL CINEMA (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/340
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││UNIVERSAL COMEDY (N)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1006522521_UniversalComedy.png.b9917abf77a0af6426dc74bf7e8c0083.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││UNIVERSAL COMEDY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/341
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││FILM  & ARTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││FILM  & ARTS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/343
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL PREMIER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/344
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ HBO (N)" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ HBO (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/345
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SPACE (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/353
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SONY (N)" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SONY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/354
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TCM
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/356
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT SERIES (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/357
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT (n)" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT (n)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/358
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL CHANNEL (N)" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/359
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││STUDIO UNIVERSAL (N)" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││STUDIO UNIVERSAL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/360
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ WARNER (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ WARNER (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/361
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY THEATER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/398
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY WORLD (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY WORLD (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/399
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY HOME HEALTH (N)" tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY HOME HEALTH (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/400
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY INVESTIGATION (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY INVESTIGATION (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/401
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/403
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ NATGEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="││TV││CULTURA", ││CULT FHD││ NATGEO WILD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/405
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATGEO (N)" tvg-logo="https://media.findapps.com/wp-content/uploads/2016/04/Nat-Geo-TV.png" group-title="││TV││CULTURA", ││CULT FHD││  NATGEO (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/406
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ ANIMAL PLANET (N)" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA", ││CULT FHD││ ANIMAL PLANET (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/407
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││(N)  HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="││TV││CULTURA",││CULT FHD││(N)  HISTORY CHANNEL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/408
+
+
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="││TV││ CINE",││CINE HD││SONY CINE
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/101
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/102
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/103
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/104
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINECANAL (N)" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="││TV││ CINE",││CINE HD││CINECANAL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/105
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/108
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/109
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/110
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINE PRIVADO" tvg-logo="https://img2.freepng.es/20180323/ape/kisspng-art-film-logo-cinema-clip-art-movie-logo-cliparts-5ab587fb1000c4.1651552415218462670656.jpg" group-title="││TV││ CINE",││CINE HD││CINE PRIVADO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/112
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/123
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/124
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/127
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/128
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/129
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/130
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/151
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/152
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/153
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/155
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/156
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY TURBO*" tvg-logo="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY TURBO*
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/157
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CULT HD││ DISCOVERY WORLD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY WORLD (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/158
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORY (N)" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ HISTORY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/159
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/160
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO WILD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/161
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY ID (N)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY ID (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/162
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY TURBO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/163
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="││CULT HD││ H2 " tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ H2 
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/164
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORIA CHANNEL (N)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ HISTORIA CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/165
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/166
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/167
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/168
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/169
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/170
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/171
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/172
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ TOONCAST SD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/173
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NATGEO KIDS" tvg-logo="https://static.epg.best/mx/NatGeoKids.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NATGEO KIDS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/174
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/175
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK 2 TEAM NICK HD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/176
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/177
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 24 HQ" tvg-logo="https://static.epg.best/ar/America24.ar.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 24 HQ
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/178
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVISION [HD]" tvg-logo="https://static.epg.best/bo/Bolivision.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVISION [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/179
+#EXTINF:-1 tvg-id="" tvg-name="││BOL│ PAT" tvg-logo="https://static.epg.best/bo/PlusTLT.bo.png" group-title="││TV││ BOLIVIA",││BOL│ PAT
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/180
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  PAT PLUS" tvg-logo="https://static.epg.best/bo/PlusTLT.bo.png" group-title="││TV││ BOLIVIA",││BOL││  PAT PLUS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/181
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  RED ADVENIR" tvg-logo="https://static.epg.best/bo/AbyaYala.bo.png" group-title="││TV││ BOLIVIA",││BOL││  RED ADVENIR
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/182
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVIA TV [HD]" tvg-logo="https://static.epg.best/bo/BoliviaTv.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVIA TV [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/183
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | A&E (N)" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | A&E (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/332
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | AMC (N)" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | AMC (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/333
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ AXN (N)" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ AXN (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/334
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | CINECANAL (N)" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | CINECANAL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/335
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CINEMAX FHD (N)" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="││TV││ PREMIUM FHD",CINE  CINEMAX FHD (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/336
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | FX (n)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="││TV││ PREMIUM FHD",CINE FULL HD | FX (n)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/337
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | STAR CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/338
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL PREMIER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/339
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL CINEMA (N)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL CINEMA (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/340
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││UNIVERSAL COMEDY (N)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1006522521_UniversalComedy.png.b9917abf77a0af6426dc74bf7e8c0083.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││UNIVERSAL COMEDY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/341
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││FILM  & ARTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││FILM  & ARTS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/343
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL PREMIER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/344
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ HBO (N)" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ HBO (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/345
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SPACE (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/353
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SONY (N)" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SONY (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/354
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TCM
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/356
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT SERIES (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/357
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT (n)" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT (n)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/358
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL CHANNEL (N)" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/359
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││STUDIO UNIVERSAL (N)" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││STUDIO UNIVERSAL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/360
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ WARNER (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ WARNER (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/361
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY THEATER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/398
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY WORLD (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY WORLD (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/399
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY HOME HEALTH (N)" tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY HOME HEALTH (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/400
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY INVESTIGATION (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY INVESTIGATION (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/401
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY CHANNEL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/403
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ NATGEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="││TV││CULTURA", ││CULT FHD││ NATGEO WILD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/405
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATGEO (N)" tvg-logo="https://media.findapps.com/wp-content/uploads/2016/04/Nat-Geo-TV.png" group-title="││TV││CULTURA", ││CULT FHD││  NATGEO (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/406
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ ANIMAL PLANET (N)" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA", ││CULT FHD││ ANIMAL PLANET (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/407
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││(N)  HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="││TV││CULTURA",││CULT FHD││(N)  HISTORY CHANNEL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/408
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││  GOURMET (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="││TV││CULTURA",││CULT FHD││  GOURMET (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/409
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | TERROR
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/435
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | MARVEL" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | MARVEL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/436
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | SAGAS FANTASIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | SAGAS FANTASIA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/437
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ZOMBIES" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ZOMBIES
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/438
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 1
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/439
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 2
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/440
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 3
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/441
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 4
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/442
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 5
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/443
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 6
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/444
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 7" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 7
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/445
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 9" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 9
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/447
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 10" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 10
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/448
+#EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/451
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL INTERNACIONAL HD" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="││TV││ COLOMBIA 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES  DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES  DRAGON BALL Z
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1439
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" group-title="││TV││SERIES 24/7",24/7 LOS SIMPSON
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1440
+#EXTINF:-1 tvg-id="" tvg-name="24/7  BOB ESPONJA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/logo-SpongeBob-SquarePants.png" group-title="││TV││SERIES 24/7",24/7  BOB ESPONJA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1441
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1442
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL GT
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1443
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL Z
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1444
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES | CHAVO DEL OCHO " tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/0/06/Chavoposter.jpg/revision/latest/top-crop/width/360/height/450?cb=20211011204936&path-prefix=es" group-title="││TV││SERIES 24/7",24/7 SERIES | CHAVO DEL OCHO 
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1445
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Lafamiliapluche.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1446
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1447
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | MALCOM IN THE MIDDLE TEMPORADA 1 2 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/MitM_credits_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | MALCOM IN THE MIDDLE TEMPORADA 1 2 3
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1448
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | EL CHAVO DEL OCHO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/El_Chavo_poster.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | EL CHAVO DEL OCHO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1449
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Lafamiliapluche.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1450
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | BEN 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | BEN 10
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1451
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | MR BEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Atkinson_Rowan.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | MR BEAN
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1452
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | TERROR
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1454
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | ED EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/All_3_eds.png/200px-All_3_eds.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | ED EDD Y EDDY
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1455
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | YU-GI-OH!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Yu-Gi-Oh%21_vol_01.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | YU-GI-OH!
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1457
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | ANIMANIACS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Animaniacs_2020_tv_series_cover.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | ANIMANIACS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1458
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION  | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES ACCION  | MARVEL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1459
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIA  | FRIENDS" tvg-logo="https://i.blogs.es/d26168/friends-tiempo/450_1000.jpeg" group-title="││TV││SERIES 24/7",24/7 SERIES COMEDIA  | FRIENDS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1460
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | THE WALKING DEAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Walking_Dead_Season_3_Official_Poster.jpg/220px-Walking_Dead_Season_3_Official_Poster.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | THE WALKING DEAD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1461
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | THUNDERCATS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Thundercats.png/250px-Thundercats.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | THUNDERCATS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1462
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ACCION Y CLASICAS" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ACCION Y CLASICAS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1463
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION | BREAKING BAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" group-title="││TV││SERIES 24/7",24/7 SERIES ACCION | BREAKING BAD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1464
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1465
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | TOY STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toy_Story.svg/1200px-Toy_Story.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | TOY STORY
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1466
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | PICAPIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | PICAPIEDRAS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1467
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CASO CERRADO" tvg-logo="https://www.terra.cl/u/fotografias/m/2022/3/23/f768x1-22152_22279_5050.png" group-title="││TV││SERIES 24/7",24/7  CASO CERRADO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1468
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DISNEY PIXAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DISNEY PIXAR
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1471
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DREAMWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DREAMWORKS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1472
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS" tvg-logo="https://www.themoviedb.org/t/p/w500/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1474
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | GRAVITY FALLS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gravity_Falls_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | GRAVITY FALLS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1475
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | JOHNNY TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Johnny_Test_Title_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | JOHNNY TEST
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1477
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | KENAL Y KEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES COMEDIAS | KENAL Y KEL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA CASA DE MICKEY MOUSE" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/08/10/11/590012.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LA CASA DE MICKEY MOUSE
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1479
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA PRINCESA SOFIA" tvg-logo="http://www.princesas.tienda/wp-content/uploads/2020/09/princesa-sofia.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LA PRINCESA SOFIA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1480
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LADYBUG" tvg-logo="https://www.themoviedb.org/t/p/original/32yoyMPjw0tpPk4xmhkXT3gypkc.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LADYBUG
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1481
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL FINAL DEL PARAISO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ElFinalDelPara%C3%ADsoLogo.png/245px-ElFinalDelPara%C3%ADsoLogo.png" group-title="││TV││SERIES 24/7",24/7 | EL FINAL DEL PARAISO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1482
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | NARCO MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="││TV││ MEXICO",24/7 | NARCO MEXICO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1483
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/El_Chapo_Netflix_poster.jpg" group-title="││TV││SERIES 24/7",24/7 | EL CHAPO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1485
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="https://stadium-azteca.underdog.gs/soccerly/1.5/2018/04/02/1522693082.png" group-title="││TV││SERIES 24/7",24/7 SUPER CAMPEONES
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| BIRDMAN THE GALAXY TRIO" tvg-logo="https://pictures.betaseries.com/fonds/poster/a17e5a74619e5f5980c4f99a3483cb47.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| BIRDMAN THE GALAXY TRIO
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1487
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES  DIGIMON " tvg-logo="https://elregidordecine.com/wp-content/uploads/2020/03/curiosidades-de-digimon-adventure-serie-animacion-00.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES  DIGIMON 
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1488
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| DISENCHATMENT" tvg-logo="https://www.srgeekarg.com/wp-content/uploads/2021/04/Disenchantment-s3-portada.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| DISENCHATMENT
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1489
+#EXTINF:-1 tvg-id="" tvg-name="24/7  INFANTIL DON GATO Y SU PANDILLA" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7dbc117a-b70f-4659-921d-50d88e6a2617/deik3o3-04c884e9-c752-4d51-9b76-63a783fc57af.jpg/v1/fill/w_1920,h_1080,q_75,strp/don_gato_y_su_pandilla_by_jamegerea_deik3o3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzdkYmMxMTdhLWI3MGYtNDY1OS05MjFkLTUwZDg4ZTZhMjYxN1wvZGVpazNvMy0wNGM4ODRlOS1jNzUyLTRkNTEtOWI3Ni02M2E3ODNmYzU3YWYuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tgZZ7x-BoERvglT6NuWomeTwpqKoJ5zRUYlOmTmHdzg" group-title="││TV││SERIES 24/7",24/7  INFANTIL DON GATO Y SU PANDILLA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1490
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| HIGH SCHOOL MUSICAL" tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/23/15/40/2781440.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| HIGH SCHOOL MUSICAL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1492
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| HORA DE AVENTURA TEMPORADA 1 2 3" tvg-logo="https://www.compudescarga.com/wp-content/uploads/2018/09/hora-de-aventura-todas-las-temporadas-espa%C3%B1ol-latino-por-mega.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| HORA DE AVENTURA TEMPORADA 1 2 3
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1493
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| KUNG FU PANDA" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/27/00/10/3716633.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| KUNG FU PANDA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1494
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="https://es.peppapig.com/wp-content/uploads/sites/6/2019/03/peppa_george_characters.png" group-title="││TV││SERIES 24/7",24/7 PEPPA PIG
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1495
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | OUTCAST" tvg-logo="https://moviehaku.com/thumbs/films/400x590/Outcast-2016.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | OUTCAST
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1498
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | PENNY DREADFULL" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/24/11/43/4884372.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | PENNY DREADFULL
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1500
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | SLASHER" tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/23/15/43/145751.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | SLASHER
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1501
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | STRANGER THINGS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/16/39/4888520.jpg?coixp=51&coiyp=36" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | STRANGER THINGS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1502
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | THE VAMPIRE DIARIES" tvg-logo="https://1.bp.blogspot.com/--LX0OO3Sl6Y/X6cuH7uLEMI/AAAAAAAABsU/R0M2vcCmdIEa3EUU4yWounsuAyKLXpUFgCLcBGAsYHQ/s16000/05x17.%2BEl%2BAmuleto%2Bde%2Bla%2BSuerte.avi_thumbs_%255B2020.11.07_06.07.13%255D.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | THE VAMPIRE DIARIES
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1503
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | !ZOMBIES TEMPORADA 1 2" tvg-logo="" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | !ZOMBIES TEMPORADA 1 2
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1504
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | HAUNTED" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/04/al-borde-de-la-realidad-latinoamerica-poster.jpeg?fit=426%2C597&ssl=1" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | HAUNTED
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | FROM DUSK TILL DAWN THE SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/13/09/31/063864.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | FROM DUSK TILL DAWN THE SERIES
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1506
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | FEAR THE WALKING DEAD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZkYTRjMWQtZThiOS00MjJlLWFkNDktNzNhODNhOWNlNjdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | FEAR THE WALKING DEAD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1507
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | ESCALOFRIOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | ESCALOFRIOS
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1508
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | EL MUNDO OCULTO DE SABRINA" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/22/02/56/2323749.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | EL MUNDO OCULTO DE SABRINA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1509
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | EL EXORCISTA" tvg-logo="https://www.ecartelera.com/carteles-series/100/191/002_p.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | EL EXORCISTA
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | CATLE ROCK" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/12/cartel-castle-rock-2.jpeg?itok=sVEIdVYt" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | CATLE ROCK
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | ASH VS EVIL DEAD" tvg-logo="https://menudocaramelito.files.wordpress.com/2017/01/ash-vs-evil-dead-season-2-poster1-1.jpg?w=900" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | ASH VS EVIL DEAD
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1512
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | AMERICAN HORROR STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | AMERICAN HORROR STORY
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/1513
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR HQ | EL CANAL DEL FUTBOL OPC3 (N)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",ECUADOR HQ | EL CANAL DEL FUTBOL OPC3 (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/5734
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR SD | EL CANAL DEL FUTBOL (N)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",ECUADOR SD | EL CANAL DEL FUTBOL (N)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/5735
+#EXTINF:-1 tvg-id="" tvg-name="││EC││ EL CANAL DEL FUTBOL (EVENTOS MOVISTAR)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",││EC││ EL CANAL DEL FUTBOL (EVENTOS MOVISTAR)
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/5736
+#EXTINF:-1 tvg-id="" tvg-name="THE SPORTS NETWORK | TSN 2" tvg-logo="https://static.epg.best/ca/TSN2.ca.png" group-title="││TV││ ⛹️CANADA SPORTS ⛹️",THE SPORTS NETWORK | TSN 2
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/18308
+#EXTINF:-1 tvg-id="" tvg-name="THE SPORTS NETWORK | TSN 5" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="││TV││ ⛹️CANADA SPORTS ⛹️",THE SPORTS NETWORK | TSN 5
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/18310
+#EXTINF:-1 tvg-id="" tvg-name="││EC││EL CANAL DEL FUTBOL HD  OPCION 2" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",││EC││EL CANAL DEL FUTBOL HD  OPCION 2
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/25912
+#EXTINF:-1 tvg-id="" tvg-name="││EC││GOL TV SD OPCION 2  " tvg-logo="https://static.epg.best/pa/GolTVLatinAmerica.pa.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",││EC││GOL TV SD OPCION 2  
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/25913
+#EXTINF:-1 tvg-id="" tvg-name="││EC││GOL TV HD  |Exclusivo|" tvg-logo="https://static.epg.best/pa/GolTVLatinAmerica.pa.png" group-title="││TV││⛹️  DEPORTE ECUADOR ⛹️",││EC││GOL TV HD  |Exclusivo|
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/25914
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (GUA) [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT││ (GUA) [HD]
+http://proiptvdigic.com:8080/CR87937712/6bBA8GkTfzCD23/26141
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNqxjxoGgAIgVhxXbaJW1Ht4e2j.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Py7CMG5csuWlZRX5RIL7Y4Vxfd.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqH3dVAnW83P3Z24mFieQlPgH9d.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bz3hqODZ8C9PNxBweZRfJSRHzQS.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvaLHypGtUF8SPxqa6RKSDNrhGT.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFxHmEsDefjo7ZXe8lKat4eWXIS.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAkLEAcmU2Odp0zuI2oH01owH6N.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCA5GP0WNb0vAc5TNSuacdjxWK8.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxTeBNNCEuEFMVBYinP5x6X7qSp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0kyuab3dOA1kSisGeuim7rROBp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fH89lDoF6SovyAcKEvVAxeLGLxm.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghgOvYklWtPdHiNOKdOxfjHnA3C.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/og7cB1PBIBM5Hz7b3Gd6KhKQRTu.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MnpDlJ5N6Q0ZFiOqFrgkocAvku.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWM3j872JVPw4z0GV4TbB6fePQ7.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6t4N21kGQQxfvFeIkgesq2XdhLo.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMzI4NVw3odbMfFgrp8Zq9f3mEI.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf1lGxIrItZwZAt6Y6UkpCgBPae.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mocrFrVgV6cY1QANqxsCQ6XcPNp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1EF6FchMvxc9Kb5YoGAwcJ28a.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kekoXZc4FSQUi8U7EHcjzKK8Lle.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj1atz2XdzSpBgc21VNSig2GuvU.jpg" group-title="PRIME VIDEO",Dos hombres y medio S01 E24
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVSfzYWFeqsIbhyFGSfx9lCbswq.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmgcW7U9PN7LHHrB3eoUTLFiQbR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlNNY50yaHLXN2Sg6SAFmLx4bGZ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agyKb56je02Spo4DximL6zTLVCZ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsGpsUeG0AL5RT6aSw6eBKoUi0v.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4IgcRZqyCkxlm7LrcsiNvDRXT.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrVHKWuON5EYMgQXDilX47enz2V.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUocbYFDNiLiMHN3vW17goMaerC.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4mYfRRjlzz5HEuCxfZa4zYW90U.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kmPTmN4kNJDcDInGFW5gUoz2Ca.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcOY543zyHX76imHfaV2zA5qJYb.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovLoIg9N2WseMiLaKMAJAAhjVgn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ4T4BvyQxY6tI1RsEJJ3PPRF6s.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex9JTywxaeaEwd300NTgsZY5lXK.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JXpp0fROPrmhUtaAp1235SIEzA.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69W9qlLYJLMjKcv1Rk7fj3iBQDA.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovYnOwDZhvpYtzxlBKcgiaPYaqR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSiN1m9nQ9b2GSJFd0GizOzEHBI.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZzS4QxLa6RLBN5VHk9nUDwfxfL.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTj2G0zE4gOwQKfGJ3nft6qEePu.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FMgllsBJdTGVoF4bYI6YQsL9YL.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IrjenGB2uoZnoB9j5dll8fhSpR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOqZdAEJWugOYlyO8OZCU6V4c55.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foG6EiH4wiMoAEyuVGlAfSIxpiw.jpg" group-title="PRIME VIDEO",Dos hombres y medio S02 E24
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKhOsR2T6pRgh3PDT9M9fbeG5rl.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec6mtm3AYVT2STvfzl8t92OldqS.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEFjGaksJcsDeXPzH7sRy3Ag7ba.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h447tnsYVQ7FY3D8HMaZicn7Z6Q.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/torb1uXRrV3Te6L5dVJlqMQ6Cq2.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzM0tVWtwr0djx9BmgPdJMWwYca.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oANapgfzKj0I09IoqBsICpTXOP6.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9Bn44cY8yL5UtYFo2CJ9h5huHO.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XmohVP5Svaot2GqyWr78Pm6UkE.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w5rukdJ8o4dzJNhCCSE512EP8H.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M1shzf6ym5TCbHv5xZdkLCi6VG.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyvBzszabysdL4QlYz15K1Naqus.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MERWfv9JPkLewh4ARap8LMXPnn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kzfLih9oMNQ6Mut0p5hztm5qGg.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiWwBDEBsl8hgfint8gaRnxcbIK.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agbizopw89tG9zDZ7veZKvuOIi5.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFgzMqIKiZMxxJZCtIaViPV8obx.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afrOv736GrM4x0QLuiJSRS9zXFW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K7pypr6UQRvo7Ol6w3JYzrMFcv.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BMzINIsSgrjViAkY4vyrwOTvVY.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mabQwkjjZWtgso0raQTxrpvqakQ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1aTCPx7bMqUeilE7pBc3zpRDaP.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YRPrnuUSfsCe58Nxd6I0zrujWP.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zy0xH9rlwc76b7Kcp0yppYiBJjn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S03 E24
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRjtpzuhvMa4XfKOo1xVF8rBCpK.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6041yAp9n3MZIv84b2H2QRWksqW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMEtMZpENa5kCkqTAqvtkS5LIh7.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peceQBJQZRQKS3j9CFuSVSWJ4Vg.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rDpR86RQvxcQF3dfZ12ytvW1Rs.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s79fon7R9IpZSNZ6DrkZcjdHd2m.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOKyFIxGgZCocybCg46abYFMt2T.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/735r9EKAmLjC2TEiIiUqlCzOXCo.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ApAOgrKNTfm18lfP0TGfDSf9M6.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7PrrjSHmsfacnVoOEl4krJW4Jm.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85n3HfumFvfxT3zibMM5YDOKiVc.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLez9Dh0d0E8kJuGmksH9zogaJH.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Q9uno88qAu8DS6lweDPJoC9R9S.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwA67cZtdpUjx7He4ALT85U05UD.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPLNby5qesdaJ193fYLp1hWYbll.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msmdp4liqLfwelokp5QBQbQoKxn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90ExizonV4GrcOBPV9gQIqHbtoB.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMlumQnbVgQ05Dr9mTsj5kOwhyA.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpOmlItj4dX3leF6G1Zza2EnpyR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awAFdvULcrORJCc5VKtDc9nRSdp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hknLojprwvlqFmkznXpYXEHsXhv.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5gFsgJv2OdU2HG8wilypj8Wbxp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s9bYjd3EfEVVujE5VLq88ve37A.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPSEQVTuDILp1V3hierJ4nMKfsH.jpg" group-title="PRIME VIDEO",Dos hombres y medio S04 E24
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oKTm0SGEvG2S3WuIPjPRCvpv75.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIAace8gyuCRD41cem0Y8B7cZVC.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zjGY4GMW0DOk98vTC6V6kAM6VQ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWxQwJUl4rEBLdVykM0oe5FYbdL.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67T1kmycmeXs0mX2kFRcoFCFVr.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6whT9ieOLZfo0CXwOV7rKyHLw98.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/192999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jyBntbXCs9ErakrxUUzE5cvuPn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcYo7WN7iafh0TobJk3dEJg9XcB.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ln8Rl0lH2fWXBAjTHuuRuGVw0cd.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOmYI5uMxUs7pmRyN9gcezgNCBI.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCWXJPrSN15ehfeyjMva2N4FQI6.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ozKXxeyHOGhfuZ3IgdXh9lIIMM.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUCbmDV2siMFSLmirkVpk7C6RJZ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsguk3lUyMs1sINq3uAxUBBtYkf.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPUq4cWeXC6cSA11vOKsqFZ8KbQ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0fCFPnCrWj9xZYrDSH9tNgxfxh.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMAV3EpVFo7dVQxIA6v46TzAyHC.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAt6yGnVFFXu0VSopqJS1FUv6le.jpg" group-title="PRIME VIDEO",Dos hombres y medio S05 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaGE6RCNpxwkxyOAnLFz8ZhzBtO.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW2Uzvsf7Rr04K0uRZVXt1luyYt.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG3rnqI0JOu18XOK1P37qqeKEXl.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN5bZVykn6uA66YhtPBq2nfHQk.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLl2bAfJoh7vh9yIobjOR7tBfGk.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCHTjLn7cKGcXwYzCKEGrCnRvvE.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxRzRIvzWd9IaHf5pEvzfBbDDeM.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HvJyOTyRkP4DNsCnaeGIojVwrm.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv32p1tOXSCDC8ppOVgq0crcWZH.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7aEQFbn027Mh6FvFQJqoYoLLQ4.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAHjPrE0LGay1OsMiKVy36egreW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZT7f1HzVucDkC4f0HNHKxW1SLx.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUaWJBJjVTwDchpqS0AryzW7as.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ceBS7lVw1wcK6jMHgYMc9i7TLr.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQKaoPBGOh9prHj8IibsENq4B5V.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JVsAdds2H0FNytYPf8OMnpUvQj.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vW1kP3lQu4rG8JhkrTELsJwxLUJ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1QZNqt68Iljrf7cF6JoEPW4i8L.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmfvtc9FxWPtx3NwJzkcNMcnBTX.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPD0e5sO0L8ZdvCHXwYX4X1Hilm.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/un0g8gYeRHukWoePquw03wUqInU.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjBvSFFBhBfvYWe1RpH5KZPsa9F.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAlB3sUSgtrxfQWOAAT0Rtpoqdu.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylzzErGq2ziEnElIgG2iQVMYBsg.jpg" group-title="PRIME VIDEO",Dos hombres y medio S06 E24
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lKYfhObg91pYPg2rl4Z2t3vAw7.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTfQ3IBTzG9XSNrkPwXw7KrjQvy.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4gCAFYRlkUKw2MODOpADRZtt9x.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V52Po9iDIQ7na5qp3tHkK1LP4S.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t757p2qfs5R53gkJM6KCR5CiiXH.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZcaGA4JqCxvx02937iqhXitSxF.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89hpyTSBvIKYp1OkPlTnDb1RLWn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chALKsBt7Ns8jplRTrwx9SLmrPS.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/po7KSiPqkxHwvw7GzajFC333Pfv.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeBHdawbtNYpVYYFl2L3RbmzjI2.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivIVjIalgYQe1Dpdji5LHDRk04E.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocBldOo2d5jrmlCDdgrkVktfqHJ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RlrnBbpQkab3O5QPo1cVlW4C1w.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEQKj2nj9rj87RnyCmYJT0ItQTx.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpUazMBGssRGtajZsmwzHLA4zXy.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCevF0bjH5fpXyVhf4B4b8JijD4.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohyP6BsmwaAVouD8360Q0sHBmrQ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn4d4VdRDnUSsOMmNvRLqCAUAAw.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyurUlCTFqKT4lzvlKrx07EzZ3Q.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39UVCVKn0HSR3zxZf7LDHrbSAhQ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghsGzYdXKCeFhAPANVIH0OTVahY.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyNIR5tV7MJvCrphTyM978lTFiw.jpg" group-title="PRIME VIDEO",Dos hombres y medio S07 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LwdfSt4sBYp1ZFmAt7ikPtrfe9.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11hOHSfUmSrpdP5mlI3vn1nnXyu.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxi1y7GvmSyMvnUW5uoKjWudbga.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7iineiqA6zWSxsTIcBcQnW2OyW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYV7BFbA0DQppDVsipRTDmJeO3Q.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wtPk9SagAPtPCAfGh5qteRTsmJ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcksoXpSMJwEtrppdUHTjSeFMfH.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/px63DTwkOLlW2d2CEjGoKj13p6f.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RGgZDo3rFHFUgOzSkVYZ8q1I51.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VeXDR6w08skoqvqaxdZEumjsoo.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecFGW84vqZDveXOGZe4uUBwEJX.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJRUrH467myL7gBQMdKYJO1nhOM.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XS3GJ3k3TZ6lS78foWw629EegD.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isyRLziOjjgTB8Pp9riqsrgXB5O.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szwPclcg1CyLSTxT15pUBP2icqb.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH9F2vBdk2RfQe7ulJPJVLmzDS9.jpg" group-title="PRIME VIDEO",Dos hombres y medio S08 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBo0Gb6kHHQ1wfcqkFfkmK6GrTY.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2juDs7s3eSCZF5k6I6dBOSopft2.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8l7jTd0AEA1uaeNhk2wh8ioEiur.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ckDD7vKkEfzPGQjfuUjNLH0JDv.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTX3qPJmrUYwYOELVrbiMbeNZP4.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hPC6gTnifGCzv8jX6WaiGQSYUg.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqOsZBFlyVtgG0gYCpgyPCREe8z.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFJZ6snRS39BXT9S6F0rsqV3THu.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7is4jc9J2GZwH9TMR13FeVcIZZa.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wi64tm584nPSzLnDQAZayOGXc2K.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4RcFD95aadNQWqyrDlfqChsT87.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgoBGLkBTeA3NRguGjnEu42TKUR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtE9bDvwEcbtnBwywWjXEH1Kn0l.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKefFmcmpKyRhT8rFldVh4usTxg.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jlMcWKugR0PinOU4f98MYFrewz.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyEUm8rk5Fk7zuPcceIGi0mgVRk.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxWGKVeIRPCmKfHGoiVOi2itkHA.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BqOgccLYxqNq8MoGD2dXLKUo5t.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOhIEvyxs7v9aUsTa5jsCfIkHec.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXCvoUVCxPbLnjSeLdoCI9GfPUy.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sauzkzVKs5JeIENHF0vQmEdu89i.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmciThr6lzFwlfWbCAPSwFOodVY.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3D0aR0K3fAZhbP9k0YDY8MC54l.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NHQnYoYPCFC4vapxbeZ5nNfDvm.jpg" group-title="PRIME VIDEO",Dos hombres y medio S09 E24
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6x74doVaZcqyfuO8bU3d4skAyj.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1agGBrioboNcmOmwCYriyqftkG.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0JP9AiPUfyclpeeQtWI0nXZzKg.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFcRrVKuewqlvsQA26HRUY9pyf3.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yigRS1njkIYKOj8TppMgsbJekX1.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7EWO6aU9Yglj7qjq0S1qaf4i6T.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BaHJIwm91612FZdCCxVR2zSkdt.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVCg6OviGj3Wum3QsADNlUj0E0a.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/je7pdxA7FlvUNt7oTIahKwbYVKJ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b4wzU34YVo1KuLXElSjWDihBdM.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xaIEvFs0afhXpHy4yGhs8w6Ady.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8nVjMkpyh8YuiwCW18cBHtXryd.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeQEOWqIOvkE6EBbY9kWxRf8S5s.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGzHZvGWp3XgUVpdDJz8fDJoUIW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvFKLcUA8Y3yVQsC1iZaN8s24Jb.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMg4KWXVWOnaQqbZTSiDCszKJhj.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/husco5uImkayI64iW8tjifPUwXf.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t40hXSNG8wHfGUyncBzsryvKsuE.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzdHi7BFab3WJ1v5TkTjbjSjtTl.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8DyvWyWqjkOr5quK7men6R76LW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hhGvhx76bTcu3cc6PR6Bymghdx.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg1FbORxKZ0QbR16ai3Dtg0OzkR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S10 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s9KMXSvgjPU1tDrS7IVySB1IgX.jpg" group-title="PRIME VIDEO",Dos hombres y medio S10 E23
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i2DDmKoXIxBoQWGgUcxgTfzdk3.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTCGHnlyhqJlrKzzSbR41EV9zcR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSNk6X9aC59nEIFbBlSGcaGJDl5.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRcHf5RP6th5xQClPenm0lhL3Jy.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D1hCIJPQurBljXSiEKDq9xL2x.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZVdUQWuB64QXeGge4c3mk8qrDF.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL7dKHrq0vPX5FBRHC4TNOpL2P.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZoUfjkhqYRfeYYuJ71abhO9TwR.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9efB1bsmpBnLBdSZf5sJz6anFGP.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jANwjbvWAJh61VZOMYOv3XaCTR6.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSAdPldgM3oF6yWlN8F2xzXMok3.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLTtb3o1Se5oiXhTZ6QJXuOpIsJ.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWUHx2f5dBkWnn871M1cZPqVC6D.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90txA4pwr4YpAmMiGqs7GlJCDr8.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNfx9FKJ4IVZf8Lo9WO3sCKBxRH.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znMXSIFNhKmZxvYrQa5tHXZ7MBy.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjGsT18USFVH5jE5s88J55S0xOp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E17
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIwz7pMW8dZlpJaNSrQkYUhLJTC.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E18
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myAcfSgnYzXWqNRAFX53W6m1ax0.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E19
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOpY4UbvFY8Ixp6H6NJLm0MgSuU.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E20
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90WSs34VtZNLxedx0taTFRRKc0q.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E21
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPwGZULTghwM2lqQoWMCBYb9UqN.jpg" group-title="PRIME VIDEO",Dos hombres y medio S11 E22
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3tYbS0RSJIxyFXfszgRQblEq1r.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E01
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSf1dyIRMM8CkGr034sMGh6Y7RX.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E02
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/duhb2eMqtesjFoNXFGTe38Umavs.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E03
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijs5wfDsr0rVilzghTmJQF9ZWxW.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E04
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVw2crxD3jLqY1mtLIag8aBktcl.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E05
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mLjGIHA5fma1Dg1TNossz6PMKi.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E06
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z38MY5Qp5aqgljrX5JeEyk1xXQe.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E07
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZSKqf9XmZ9DAsqIKMCJZVnHcDn.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E08
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXIQwN1szKVApcYIQughVCImSX2.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E09
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LpaEUjQS6g0VG1kT2HXD2mrLT.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E10
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBxmTnhOYIgR0hGCkdpkKuZyvK8.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E11
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK5y5h96JJkTWL2jmyymMreFQzE.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E12
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6dz7rbdUBLcJ1Cqkb0tndwlTxE.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E13
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umuQyFAnIqEw6AyKqM15yviPNvA.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E14
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcllzAae34AphokJBoq80mzOOLp.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E15
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos hombres y medio S12 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1M0GQaxP55RGPGZl76XzU1YJqk.jpg" group-title="PRIME VIDEO",Dos hombres y medio S12 E16
+http://proiptvdigic.com:8080/series/CR87937712/6bBA8GkTfzCD23/193158.mkv
+
+
+
+
       
 
 
